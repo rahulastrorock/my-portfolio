@@ -1,0 +1,36 @@
+body
+{
+    background-color: #dae4ee;
+}
+
+.home
+{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.8),
+    rgba(0,0,0,0.2)),
+    url(../imgs/5651999.jpg);
+    background-size: cover;
+}
+
+.Intro
+{
+    color: whitesmoke;
+    padding: 5% 20%;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 400;
+}
+.details
+{
+    color: yellow;
+}
+.th
+{
+    color: whitesmoke;
+}
+
+.name
+{
+    font-size: 3em;
+    font-weight: 500;
+}
